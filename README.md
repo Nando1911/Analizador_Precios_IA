@@ -28,6 +28,7 @@ Este proyecto obtiene datos de precios de productos de un sitio web, analiza la 
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/Analizador_Precios_IA.git
+git clone https://github.com/Nando1911/Analizador_Precios_IA.git
 cd Analizador_Precios_IA
 
+![Histograma de precios](histograma_precios.png)
