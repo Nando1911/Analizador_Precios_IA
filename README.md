@@ -30,3 +30,5 @@ Este proyecto obtiene datos de precios de productos de un sitio web, analiza la 
 ```bash
 git clone https://github.com/TU_USUARIO/Analizador_Precios_IA.git
 cd Analizador_Precios_IA
+
+![Histograma de precios](histograma_precios.png)
